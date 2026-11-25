@@ -1,0 +1,2 @@
+This is my first version of script.
+Git practical using Vi editor.
